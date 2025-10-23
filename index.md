@@ -15,3 +15,12 @@ name = "Vishesh"
 ```
 
 ##### Code Block Done ✅
+
+# Task List
+
+- [ ] Do GitHub Markdown Course
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
+
+##### Task List ✅
